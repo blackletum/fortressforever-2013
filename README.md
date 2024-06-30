@@ -1,12 +1,13 @@
+> [!IMPORTANT]  
+> This repository contains code for an unfinished and abandoned port of FF to the 2013 SDK
+
+For a working and actively developed port of FF to the 2013 SDK, see:
+
+**[fortressforever-2013](https://github.com/fortressforever-2013)**
+
+---
+
 # Fortress Forever (Source SDK 2013)
-
----
-
-## Note: This port is not currently being actively developed
-
-See [fortressforever/fortressforever](https://github.com/fortressforever/fortressforever), the repository for Source SDK 2006 version of Fortress Forever
-
----
 
 ### Helpful Resources
 
